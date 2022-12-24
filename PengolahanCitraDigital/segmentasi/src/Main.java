@@ -15,7 +15,7 @@ public class Main
                 {255,255,110,100,120},
                 {255,100,180,200,80}
         };
-        
+
         final int THRESHOLD_MANUAL_VALUE = 80;
         final int T0 = 100;
         final int T_AWAL = 130;
